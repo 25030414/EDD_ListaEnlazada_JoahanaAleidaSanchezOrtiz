@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ListaEnlazada.Logica/ListaEnlazada.Logica.csproj" Id="4289938b-e2d7-43f9-97cf-0b7c04565549" />
+  <Project Path="ListaEnlazada.UI.Logica/ListaEnlazada.UI.Logica.csproj" Id="0c0b9e5a-2c63-4ac2-be41-93433f99a55e" />
+</Solution>
